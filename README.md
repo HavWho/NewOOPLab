@@ -1,4 +1,2 @@
-# OOP
-
-Paint application 
+OOP 4 sem labs complete
 
